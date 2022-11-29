@@ -2,7 +2,7 @@ package week1.day2;
 
 public class TwoWheeler {
 	
-	int noOfWheels=4;
+	int noOfWheels=2;
 	short noOfMirrors=2;
 	long chassisNumber=12345678l;
 	boolean isPunctured=false;
