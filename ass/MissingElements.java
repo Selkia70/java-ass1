@@ -1,7 +1,5 @@
 package week2.day2.ass;
 
-import java.util.Arrays;
-
 public class MissingElements {
 
 	public static void main(String[] args) 
