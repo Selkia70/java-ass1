@@ -14,8 +14,6 @@ public class Chromebrowser {
 		driver.findElement(By.id("password")).sendKeys("crmsfa");
 		driver.findElement(By.className("decorativeSubmit")).click();
 		driver.findElement(By.linkText("CRM/SFA")).click();
-		//driver.findElement(By.id("username")).sendKeys("DemoCsr");
-		//driver.findElement(By.id("password")).sendKeys("crmsfa");
 		driver.findElement(By.linkText("Leads")).click();
 		driver.findElement(By.linkText("Create Lead")).click();
 		driver.findElement(By.partialLinkText("Create")).click();
